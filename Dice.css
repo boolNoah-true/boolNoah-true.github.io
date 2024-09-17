@@ -65,13 +65,13 @@ h1 {
 } 
 .face4 { 
     transform: rotateY(-90deg) translateZ(100px);
-    background-image: url("four.jpg");
+    background-image: url("five.jpg");
     background-size: cover;
     background-position: center;  
 } 
 .face5 { 
     transform: rotateX(90deg) translateZ(100px);
-    background-image: url("five.jpg");
+    background-image: url("four.jpg");
     background-size: cover;
     background-position: center;  
 } 
